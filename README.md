@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mike29112001" alt="mike29112001" /></a> </p>
 
-- 🔭 I’m currently working on [MHGU](https://github.com/Smileanimations/MHGU-Info-Page)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mike-hendrikx-968423303/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mike-hendrikx-968423303/" height="30" width="40" /></a>
